@@ -1,0 +1,6 @@
+{
+  "name": "ChargeOS",
+  "description": "Professional EV charging management platform for EV drivers, station operators, and fleet managers.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

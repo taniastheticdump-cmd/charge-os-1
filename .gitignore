@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+**/node_modules/
+**/node_modules - Copy/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Vite cache
+.vite/
+
+# Google AI Studio / local cache
+.gmp_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
